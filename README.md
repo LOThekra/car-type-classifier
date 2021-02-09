@@ -7,5 +7,5 @@ It uses two models:
 - CNN
 - MobileNet
   
-  Results:  
+Results:  
     ![Alt text](https://i.imgur.com/RGtfDoI.png "Optional title")  
