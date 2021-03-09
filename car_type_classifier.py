@@ -4,15 +4,6 @@
 # # Car type (SUV/Micro) classifier 
 # This code classify the type of the car (suv/micro) using CNN and MobileNet
 
-# * Computer Vision 
-# * Artificial Intillegence II | CPCS432
-
-# Section: EAR
-# * Thekra Alamoudi | 1705839 
-# * Saja Alsulami  | 1708717 
-# * Wasan Alharbi | 1705466 
-# * Raneem Aljadani | 1706172 
-
 # In[1]:
 
 
